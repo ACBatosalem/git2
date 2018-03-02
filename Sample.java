@@ -5,4 +5,8 @@ public class Sample {
 		System.out.println("Hello World 4");
 		System.out.println("Hello World 3");
     }
+	
+	public void logout() {
+		System.out.println("logout");
+	}
 }
